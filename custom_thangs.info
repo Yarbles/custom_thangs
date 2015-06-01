@@ -1,0 +1,7 @@
+name = Custom Thangs
+description = Removes the subject line from comment form
+package = Epicodus Examples
+core = 7.x
+files[] = custom_thangs.module
+files[] = custom_thangs.test
+dependencies = simpletest
